@@ -2,4 +2,4 @@ Esta es la historia de Carlos
 
 Carlos tiene 29 años
 
-Está estudiando programación y aprendiendo html
+Está estudiando programación y aprendiendo html y css
