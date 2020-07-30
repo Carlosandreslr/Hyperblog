@@ -10,5 +10,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Freddy actuando de Anita :D
 * Creado por el increible Platzi team
 * Incluye ejemplos en windows, lunix y mac
+* Disponible para todas las edades
 
 Y como un cariñoso recordatorio: **Este readme.md es una broma** Diseñado para el curso de Git y Github, espero lo disfrutes mucho, gracias.
